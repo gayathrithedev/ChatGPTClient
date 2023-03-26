@@ -1,0 +1,6 @@
+module Pods_ReactNativeGPTClient {
+  umbrella header "Pods-ReactNativeGPTClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
